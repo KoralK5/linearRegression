@@ -6,7 +6,7 @@ def reg(x, y):
 	return a, b
 
 x = list(map(float, input('Enter x Values: ').split()))
-x = list(map(float, input('Enter y Values: ').split()))
+y = list(map(float, input('Enter y Values: ').split()))
 
 a, b = reg(x, y)
 
