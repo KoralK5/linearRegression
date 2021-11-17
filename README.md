@@ -1,2 +1,2 @@
 # linearRegression
-Extremely simple linear regression code
+Returns line of best fit given data points (x, y)
